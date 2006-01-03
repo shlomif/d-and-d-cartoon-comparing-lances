@@ -6,17 +6,58 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="744.09448819"
    height="1052.3622047"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.42"
+   inkscape:version="0.43+devel"
    sodipodi:docbase="/home/shlomi/Docs/Images/Comics/By-self/trunk/inkscape"
    sodipodi:docname="medium-lance.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <linearGradient
+       id="linearGradient4522">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4524" />
+      <stop
+         id="stop4554"
+         offset="0.5"
+         style="stop-color:#c8c8c8;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop4526" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4500">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4502" />
+      <stop
+         id="stop4528"
+         offset="0.44545454"
+         style="stop-color:#919191;stop-opacity:1;" />
+      <stop
+         style="stop-color:#969696;stop-opacity:1;"
+         offset="1"
+         id="stop4504" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4522"
+       id="linearGradient4506"
+       x1="61.020061"
+       y1="190.16205"
+       x2="61.020061"
+       y2="414.55688"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +67,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.54080574"
      inkscape:cx="323.19301"
-     inkscape:cy="549.64315"
+     inkscape:cy="615.4272"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -36,21 +77,13 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:guide-points="true"
-     showgrid="true"
+     showgrid="false"
      inkscape:grid-points="false"
      guidetolerance="5.0000000mm">
     <sodipodi:guide
        orientation="vertical"
        position="972.94794"
        id="guide6802" />
-    <sodipodi:guide
-       orientation="vertical"
-       position="140.53105"
-       id="guide7546" />
-    <sodipodi:guide
-       orientation="horizontal"
-       position="753.61380"
-       id="guide7548" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -68,6 +101,15 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
+       style="fill:#eb346c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4508"
+       width="1168.6267"
+       height="297.70395"
+       x="-177.51291"
+       y="162.94855"
+       inkscape:r_cx="true"
+       inkscape:r_cy="true" />
+    <rect
        style="fill:#969696;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:0.82999718;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
        id="rect7564"
        width="157.05827"
@@ -75,7 +117,7 @@
        x="-107.52914"
        y="293.22275" />
     <path
-       style="fill:#969696;fill-opacity:1.0000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       style="fill:url(#linearGradient4506);fill-opacity:1.0;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
        d="M 21.562500,245.01843 L 21.562500,301.20593 L 21.500000,301.20593 L 21.500000,359.86218 C 49.839700,337.33350 104.60974,329.22187 133.09375,321.92468 C 195.47262,305.94414 614.60802,308.94034 894.43750,309.29968 L 894.43750,303.70593 L 894.50000,303.70593 L 894.50000,295.58093 C 614.67052,295.94027 195.50386,298.96770 133.12500,282.98718 C 104.64099,275.68999 49.902210,267.54711 21.562500,245.01843 z "
        id="path3624" />
     <rect
