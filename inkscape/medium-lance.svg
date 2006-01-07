@@ -36,7 +36,7 @@
     <linearGradient
        id="linearGradient4500">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#d8d8d8;stop-opacity:1;"
          offset="0"
          id="stop4502" />
       <stop
@@ -56,7 +56,38 @@
        y1="190.16205"
        x2="61.020061"
        y2="414.55688"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.64183,3.759444e-5)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4500"
+       id="linearGradient5435"
+       x1="-107.94414"
+       y1="302.44031"
+       x2="49.944134"
+       y2="302.44031"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.64183,3.759444e-5)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4500"
+       id="linearGradient3639"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.64183,3.759444e-5)"
+       x1="-107.94414"
+       y1="302.44031"
+       x2="49.944134"
+       y2="302.44031" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4522"
+       id="linearGradient3641"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.64183,3.759444e-5)"
+       x1="61.020061"
+       y1="190.16205"
+       x2="61.020061"
+       y2="414.55688" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -65,9 +96,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54080574"
-     inkscape:cx="323.19301"
-     inkscape:cy="615.4272"
+     inkscape:zoom="1.0015943"
+     inkscape:cx="375.36584"
+     inkscape:cy="743.33531"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -93,33 +124,58 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:title>Horse Lance</dc:title>
+        <dc:date>2006-01-03</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Shlomi Fish</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>None</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>A Horse Lance, Middle-Ages style</dc:description>
       </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#eb346c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4508"
-       width="1168.6267"
-       height="297.70395"
-       x="-177.51291"
-       y="162.94855"
+    <g
+       id="g3635"
+       transform="matrix(0.632875,0,0,0.632875,112.845,82.37248)"
        inkscape:r_cx="true"
-       inkscape:r_cy="true" />
-    <rect
-       style="fill:#969696;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:0.82999718;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
-       id="rect7564"
-       width="157.05827"
-       height="18.435122"
-       x="-107.52914"
-       y="293.22275" />
-    <path
-       style="fill:url(#linearGradient4506);fill-opacity:1.0;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
-       d="M 21.562500,245.01843 L 21.562500,301.20593 L 21.500000,301.20593 L 21.500000,359.86218 C 49.839700,337.33350 104.60974,329.22187 133.09375,321.92468 C 195.47262,305.94414 614.60802,308.94034 894.43750,309.29968 L 894.43750,303.70593 L 894.50000,303.70593 L 894.50000,295.58093 C 614.67052,295.94027 195.50386,298.96770 133.12500,282.98718 C 104.64099,275.68999 49.902210,267.54711 21.562500,245.01843 z "
-       id="path3624" />
+       inkscape:r_cy="true">
+      <rect
+         inkscape:r_cy="true"
+         inkscape:r_cx="true"
+         y="293.22275"
+         x="-90.887299"
+         height="18.435122"
+         width="157.05827"
+         id="rect7564"
+         style="fill:url(#linearGradient3639);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.82999718;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:r_cy="true"
+         inkscape:r_cx="true"
+         id="path3624"
+         d="M 38.204335,245.01843 L 38.204335,301.20593 L 38.141835,301.20593 L 38.141835,359.86218 C 66.481535,337.3335 121.25158,329.22187 149.73559,321.92468 C 212.11446,305.94414 631.24986,308.94034 911.07934,309.29968 L 911.07934,303.70593 L 911.14184,303.70593 L 911.14184,295.58093 C 631.31236,295.94027 212.1457,298.9677 149.76684,282.98718 C 121.28283,275.68999 66.544045,267.54711 38.204335,245.01843 z "
+         style="fill:url(#linearGradient3641);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
     <rect
        style="fill:#e883d2;fill-opacity:0;fill-rule:nonzero;stroke:#83e8b8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect3628"
