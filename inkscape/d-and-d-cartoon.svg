@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.91+devel 14094"
-   sodipodi:docname="d-and-d-cartoon.svg">
+   sodipodi:docname="d-and-d-cartoon.svg"
+   inkscape:export-filename="/home/shlomif/Docs/Images/d-and-d-cartoon--comparing-lances/inkscape/d-and-d-cartoon.svg.png"
+   inkscape:export-xdpi="108.09"
+   inkscape:export-ydpi="108.09">
   <defs
      id="defs2">
     <linearGradient
@@ -640,7 +643,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="944.36074"
-     inkscape:cy="659.80076"
+     inkscape:cy="774.08647"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -663,7 +666,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -702,12 +705,12 @@
       <image
          sodipodi:absref="/home/shlomif/Docs/Images/d-and-d-cartoon--comparing-lances/inkscape/dnd-cropped.png"
          xlink:href="dnd-cropped.png"
-         y="11.756416"
-         x="48.351589"
-         id="image4403"
-         preserveAspectRatio="none"
+         width="54.032375"
          height="20.909792"
-         width="54.032375" />
+         preserveAspectRatio="none"
+         id="image4403"
+         x="48.351589"
+         y="11.756416" />
     </g>
     <text
        sodipodi:linespacing="125%"
