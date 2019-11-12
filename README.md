@@ -2,6 +2,8 @@
 
 ## Preview
 
+![D&amp;D Cartoon comparing lances](./inkscape/d-and-d-cartoon.svg.webp)
+
 ## About
 
 Work in progress.
